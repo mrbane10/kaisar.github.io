@@ -1,10 +1,5 @@
 ---
-layout: archive
-title: "CV"
+layout: null
 permalink: /cv/
-author_profile: true
+redirect_to: /files/cv.pdf
 ---
-
-<embed src="/files/cv.pdf" type="application/pdf" width="100%" height="800px" />
-
-<p><a href="/files/cv.pdf" target="_blank">Open PDF in new tab</a> | <a href="/files/cv.pdf" download>Download PDF</a></p>
