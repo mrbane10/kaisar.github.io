@@ -23,23 +23,22 @@ repository               : "mrbane10/mrbane10.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Kaisar"
+  name             : "Kaisar Imtiyaz"
   pronouns         : # example: "she/her"  
-  bio              : "Recent graduate from IIT Kharagpur with expertise in Machine Learning and NLP. Passionate about Large Language Models, Generative AI, and building intelligent systems. Experienced in model fine-tuning, RAG, and efficient training techniques"
-  location         : "Srinagar, Kashmir"
   employer         : "IIT Kharagpur"
+  location         : "Srinagar, Kashmir"
   uri              : # URL
   email            : "ikaisar10@gmail.com" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  # googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  # orcid            : "http://orcid.org/yourorcidurl"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
 
@@ -50,10 +49,10 @@ author:
   github           : "mrbane10"
   kaggle           : kaisarimtiyaz 
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
-
+  leetcode         : ikaisar10
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  # bluesky          : "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -62,7 +61,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : kaisar-imtiyaz
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
