@@ -7,7 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-# Kaisar Imtiyaz  
 **Email:** ikaisar10@gmail.com  
 **GitHub:** [github.com/mrbane10](https://github.com/mrbane10)  
 
