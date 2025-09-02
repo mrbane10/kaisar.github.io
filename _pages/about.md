@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a recent graduate from the Indian Institute of Technology Kharagpur (May 2025), with a background in Machine Learning and Natural Language Processing. My work spans large language models, generative AI, and applied NLP systems. I have hands-on experience in fine-tuning and deploying models, as well as experimenting with efficient training techniques. You can explore my projects in detail on my [GitHub](https://github.com/mrbane10).  
+I am a 2025 graduate from the Indian Institute of Technology Kharagpur, with a background in Machine Learning and Natural Language Processing. My work spans large language models, generative AI, and applied NLP systems. I have hands-on experience in fine-tuning and deploying models, as well as experimenting with efficient training techniques. You can explore my projects in detail on my [GitHub](https://github.com/mrbane10).  
 
 ---
 
